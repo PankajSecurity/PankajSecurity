@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Kumar 👋
 
-🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | CEH V12 Pursuing
+🛡️ Red Team Researcher| Cybersecurity Enthusiast | CEH, BSCP Pursuing
 
 ---
 
