@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Kumar 👋
 
-🛡️ Aspiring Red Team Researcher| Offencive security Enthusiast | 
+🛡️ Aspiring Red Team Researcher | Offencive security Enthusiast | 
 Learning web Security | AD | Pentesting | Offensive Security 
 CEH → BSCP → OSEP | Learning Path
 
