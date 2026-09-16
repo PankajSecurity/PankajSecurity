@@ -1,8 +1,8 @@
 # Hi, I'm Pankaj Kumar 👋
 
-🛡️ Aspiring Red Team Researcher | Offencive security Enthusiast | 
-Learning web Security | AD | Pentesting | Offensive Security 
-CEH → BSCP → OSEP | Learning Path
+🛡️ Aspiring Red Team Researcher | Offensive Security Enthusiast
+🔴 Web Security • Active Directory • Pentesting
+📚 Learning Path: CEH → BSCP → OSEP
 
 ---
 
